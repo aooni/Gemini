@@ -1,0 +1,8 @@
+C:\Users\Gunso\Documents\Visual Studio 2015\Projects\Gemini\Gemini\bin\Debug\Gemini.exe.config
+C:\Users\Gunso\Documents\Visual Studio 2015\Projects\Gemini\Gemini\bin\Debug\Gemini.exe
+C:\Users\Gunso\Documents\Visual Studio 2015\Projects\Gemini\Gemini\bin\Debug\Gemini.pdb
+C:\Users\Gunso\Documents\Visual Studio 2015\Projects\Gemini\Gemini\obj\Debug\Gemini.csprojResolveAssemblyReference.cache
+C:\Users\Gunso\Documents\Visual Studio 2015\Projects\Gemini\Gemini\obj\Debug\Gemini.Properties.Resources.resources
+C:\Users\Gunso\Documents\Visual Studio 2015\Projects\Gemini\Gemini\obj\Debug\Gemini.csproj.GenerateResource.Cache
+C:\Users\Gunso\Documents\Visual Studio 2015\Projects\Gemini\Gemini\obj\Debug\Gemini.exe
+C:\Users\Gunso\Documents\Visual Studio 2015\Projects\Gemini\Gemini\obj\Debug\Gemini.pdb

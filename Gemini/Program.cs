@@ -6,6 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading;
+using System.Threading.Tasks;
 using Gemini.Properties;
 
 #endregion
@@ -50,7 +51,7 @@ namespace Gemini
 
 			if (Settings.Default.IntervalSeconds > 0)
 			{
-				new Thread(new ThreadStart(() =>
+				Task.Run(() =>
 				{
 					while (true)
 					{
@@ -63,7 +64,7 @@ namespace Gemini
 
 						Rsync(false);
 					}
-				})).Start();
+				});
 			}
 
 			#endregion
